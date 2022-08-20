@@ -1,3 +1,7 @@
+# About
+
+Demo service generated with Spring Initializr (https://start.spring.io/)
+
 # Prerequisites
 
 Gradle > 7.x
